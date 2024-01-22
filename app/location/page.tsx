@@ -3,9 +3,9 @@ import React from 'react';
 const Page = () => {
   return (
     <>
-      <div>character Filter</div>
-      <div>character List</div>
-      <div>character Info</div>
+      <div>Location filter</div>
+      <div>Location List</div>
+      <div>Location Info</div>
     </>
   );
 };
